@@ -8,6 +8,6 @@ public class RestControler {
 
     @GetMapping("/start")
     public String start(){
-        return "Sandu Catalin";
+        return "Sandu Catalin!";
     }
 }
